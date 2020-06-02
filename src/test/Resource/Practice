@@ -1,0 +1,5 @@
+Feature:
+  Scenario:
+    Given user is on the homepage
+    When user types in Nike
+    Then user should see all products related to Nike
